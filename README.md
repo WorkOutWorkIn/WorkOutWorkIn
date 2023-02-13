@@ -1,7 +1,6 @@
 ### Hi there, I am Ho Ming Sheng 👋
   - I am a graduate of Rocket Academy's Full Time Bootcamp for Software Engineering ⚡
   - I am interested in the Web3 and Blockchain Development 🔭
-  - I am currently learning Blockchain, Solidity and Full Stack Web3 Development with JavaScript 💬
   - Reach me at ... mingshengho96@gmail.com 📫
 
 <!--
